@@ -15,8 +15,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## 🔁 Clone this project
 
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+```cmd
+git remote add origin https://github.com/Jomarie0/SIA-102-Activities.git
 cd YOUR_REPO_NAME
 npm install
 npx expo start
